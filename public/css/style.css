@@ -1,0 +1,248 @@
+body {
+	background-color: #e9eef3;
+}
+
+.container-forum {
+	margin-top: 85px;
+}
+
+body a {
+	text-decoration: none;
+	color: #333;
+}
+
+body a:hover {
+	text-decoration: underline;
+	color: #333;
+}
+
+/* index.php */
+
+/* topic.php */
+
+/* #btn-follow-unfollow:hover {
+	text-decoration: none;
+	color: blue;
+} */
+
+#container-question-page {
+	padding-right: 150px;
+	padding-left: 150px;
+	margin-top: 85px;
+}
+
+#div-topic-section {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/*#div-topic-section img{
+	width: 150px;
+	height: 150px;
+}*/
+
+.img-sidebar {
+	width: 24px;
+	height: 24px;
+}
+
+#div-content {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.div-question {
+	margin-bottom: 10px;
+}
+
+.div-question .img-profil {
+	margin-bottom: 13px;
+	width: 65px;
+	height: 65px;
+}
+
+/* question.php */
+.div-answer {
+	margin-bottom: 10px;
+}
+
+.div-answer .img-profil {
+	margin-bottom: 13px;
+	width: 65px;
+	height: 65px;
+}
+
+#btn-follow-unfollow {
+	border-radius: 16px;
+	padding: 7px 20px;
+	border-width: 0px;
+	/* position: absolute;
+	bottom: 40px; */
+}
+.btn-follow {
+	background-color: #ebeced;
+}
+
+.btn-unfollow {
+	background-color: #ebf0ff;
+}
+
+.div-topic {
+	margin: 10px;
+	overflow: hidden;
+}
+
+.login-register-card-header {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	text-transform: capitalize;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.login-register-input {
+	background-color: #f4f4f4;
+	color: black;
+	margin-top: 30px;
+	font-weight: 500;
+	padding: 20px 20px;
+}
+
+.login-register-btn-submit {
+	font-weight: bold;
+	color: white;
+	margin-bottom: 80px;
+}
+
+.login-register-bottom-link {
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.login-register-have-account-link {
+	text-align: center;
+	color: gray;
+	font-weight: 500;
+}
+
+.form-border {
+	border: 1px solid #cfc4c4;
+	padding: 10px;
+	border-radius: 10px;
+}
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+  position: relative;
+  width: 36px;
+  font-size: 24px;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+  font-size: 0.75rem;
+  position: absolute;
+  right: 0;
+  font-family: sans-serif;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa {
+  top: 3px;
+  line-height: 12px;
+}
+
+.navbar-icon-top .navbar-nav .nav-link > .fa > .badge {
+  top: -10px;
+}
+
+@media (min-width: 576px) {
+  .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link {
+    text-align: center;
+    display: table-cell;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link > .fa {
+    display: block;
+    width: 48px;
+    margin: 2px auto 4px auto;
+    top: 0;
+    line-height: 24px;
+  }
+
+  .navbar-icon-top.navbar-expand-sm .navbar-nav .nav-link > .fa > .badge {
+    top: -7px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link {
+    text-align: center;
+    display: table-cell;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link > .fa {
+    display: block;
+    width: 48px;
+    margin: 2px auto 4px auto;
+    top: 0;
+    line-height: 24px;
+  }
+
+  .navbar-icon-top.navbar-expand-md .navbar-nav .nav-link > .fa > .badge {
+    top: -7px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+    display: table-cell;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link > .fa {
+    display: block;
+    width: 48px;
+    margin: 2px auto 4px auto;
+    top: 0;
+    line-height: 24px;
+  }
+
+  .navbar-icon-top.navbar-expand-lg .navbar-nav .nav-link > .fa > .badge {
+    top: -7px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link {
+    text-align: center;
+    display: table-cell;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link > .fa {
+    display: block;
+    width: 48px;
+    margin: 2px auto 4px auto;
+    top: 0;
+    line-height: 24px;
+  }
+
+  .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link > .fa > .badge {
+    top: -7px;
+  }
+}
