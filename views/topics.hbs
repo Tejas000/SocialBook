@@ -1,27 +1,24 @@
+{{!-- <div class="container container-forum">
 
 
 
-<div class="container container-forum">
-	
-
-
-	{{!-- add a topic section --}}
+    {{!-- add a topic section --}}
     <div class="row justify-content-center">
-		<div class="col-sm-12 col-md-10 col-lg-6">
+        <div class="col-sm-12 col-md-10 col-lg-6">
 
-			{{#if connectedUser}}
-				<p class="h4 text-center">
-					<a href="/topics/create" class="text-muted">
-						<img src="/images/icons/iconWriteAnswer.png">
-						create a topic
-					</a>
-				</p>
-				
-				<hr>
-			{{/if}}
+            {{#if connectedUser}}
+            <p class="h4 text-center">
+                <a href="/topics/create" class="text-muted">
+                    <img src="/images/icons/iconWriteAnswer.png">
+                    create a topic
+                </a>
+            </p>
 
-		</div>
-	</div> 
+            <hr>
+            {{/if}}
+
+        </div>
+    </div>
     {{!-- /add a topic section --}}
 
 
@@ -30,67 +27,81 @@
 
 
 
-	{{!-- search a topic form --}}
-	<div class="row justify-content-center">
-		<div class="col-sm-12 col-md-10 col-lg-6">
-			<form action="" method="">
-				<div class="input-group mb-3">
-					<input type="text" class="form-control" id="input-search" placeholder="search a topic..." name="topic_wanted">
-				 	<div class="input-group-append">
-				  		<button type="submit" class="btn btn-primary" name="search_topic"> <i class="fas fa-search"></i> </button>
-					</div>
-				</div>
-			</form>
-			<hr>
-		</div>
-	</div> 
-    {{!-- /search a topic form --}}
-
-	
-
-
-
-
-
-
-	{{!-- topics --}}
-	<div class="row justify-content-center" id="div-topics-container">
-        
-        {{!-- if there is some topics in db --}}
-        {{#if topics}}
-            {{#each topics}}
-                <div class="col-lg-3 col-md-5 col-sm-12 div-topic" >
-                    <div class="card bg-light border-secondary" style="height: 370px;">
-
-                        <a href="/topics/{{this._id}}">
-                            <img class="card-img-top" src="/images/topics-images/{{this.imageName}}" alt="Card image cap" width="255" height="170">
-                        </a>
-
-                        <div class="card-body">
-                            
-                            <h6 class="card-titlefont-weight-bold font-italic">
-                                <a href="/topics/{{this._id}}" class="text-capitalize">
-                                    {{this.name}}
-                                </a>
-                                <small class="text-muted"> {{this.usersFollowers.length}} follower(s) </small>
-                            </h6>
-                            
-                            
-                            <p class="card-text"> {{this.description}} </p>
-                        </div>
+    {{!-- search a topic form --}}
+    <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-10 col-lg-6">
+            <form action="" method="">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" id="input-search" placeholder="search a topic..."
+                        name="topic_wanted">
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-primary" name="search_topic"> <i class="fas fa-search"></i>
+                        </button>
                     </div>
                 </div>
-            {{/each}}
+            </form>
+            <hr>
+        </div>
+    </div>
+    {{!-- /search a topic form --}}
+
+
+
+
+
+
+
+
+    {{!-- topics --}}
+    <div class="card-deck justify-content-center" id="div-topics-container">
+
+        {{!-- if there is some topics in db --}}
+        {{#if topics}}
+        {{#each topics}}
+        <div class="col-lg-3 col-md-5 col-sm-12 div-topic">
+            <div class="card bg-light border-secondary" style="height: 370px;">
+
+                <a href="/topics/{{this._id}}">
+                    <img class="card-img-top" src="/images/topics-images/{{this.imageName}}" alt="Card image cap"
+                        width="255" height="170">
+                </a>
+
+                <div class="card-body">
+
+                    <h6 class="card-titlefont-weight-bold font-italic">
+                        <a href="/topics/{{this._id}}" class="text-capitalize">
+                            {{this.name}}
+                        </a>
+                        <small class="text-muted"> {{this.usersFollowers.length}} follower(s) </small>
+                    </h6>
+
+
+                    <p class="card-text"> {{this.description}} </p>
+                </div>
+            </div>
+        </div>
+        {{!-- <div class="card">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</p>
+            </div>
+            <div class="card-footer">
+                <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+        </div> --}}
+        {{/each}}
 
         {{!-- no topic in db --}}
-        {{else}} 
-            {{!-- <h1>There is No Topics In The Database</h1> --}}
-            <div class="alert alert-warning">
-                 <h1>There is No Topics In The Database </h1>
-            </div>
+        {{else}}
+        {{!-- <h1>There is No Topics In The Database</h1> --}}
+        <div class="alert alert-warning">
+            <h1>There is No Topics In The Database </h1>
+        </div>
         {{/if}}
-		
-	</div>
+
+    </div>
     {{!-- /topics --}}
 
 
@@ -114,11 +125,11 @@
 
         const response = await fetch(`http://localhost:3000/topics/api/search/${inputSearch.value}`)
 
-        if(response.ok){
+        if (response.ok) {
             const topics = await response.json()
             console.log(topics)
 
-            if(topics.length === 0){
+            if (topics.length === 0) {
                 const divNoContent = document.createElement("div")
                 divNoContent.className = "col-lg-6 col-md-5 col-sm-12 alert alert-warning text-capitalize"
 
@@ -127,10 +138,10 @@
                 `
 
                 divTopicsContainer.append(divNoContent)
-            }else{
+            } else {
                 topics.forEach(topic => {
                     divTopicsContainer.innerHTML += `
-                        <div class="col-lg-3 col-md-5 col-sm-12 div-topic" >
+                        {{!-- <div class="col-lg-3 col-md-5 col-sm-12 div-topic" >
                             <div class="card bg-light border-secondary" style="height: 370px;">
 
                                 <a href="/topics/${topic._id}">
@@ -150,10 +161,22 @@
                                     <p class="card-text"> ${topic.description} </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
+                        <div class="card">
+                            <img src="..." class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a wider card with supporting text below
+                                    as a natural lead-in to additional content. This content is a
+                                    little bit longer.</p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </div>
+                        </div>                        
                     `
                 })
             }
         }
     })
-</script>
+</script> --}}
