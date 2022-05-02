@@ -1,229 +1,131 @@
 [{
   "_id": {
-    "$oid": "5efda552462a3025d1106a05"
+    "$oid": "626edde31c9eae01dc86a6ca"
   },
   "usersWhoLike": [
     {
-      "$oid": "5efda187462a3025d11069f7"
-    },
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    },
-    {
-      "$oid": "5efda1a2462a3025d11069f8"
+      "$oid": "626ed7a2424a7835540628ef"
     }
   ],
-  "content": "<p>I will choose:</p>\r\n<p>for <em><strong>front end engineering</strong></em>: JavaScript/TypeScript (i know, they are just one)</p>\r\n<p>for <em><strong>back end engineering</strong></em>: OH, here you are, choose the two that suit you: Java/Python/Php/Node.js(runtime environment)/C#/Ruby/Go</p>\r\n<p>for <em><strong>native android apps</strong></em>: Java/Kotlin</p>\r\n<p>for <em><strong>native ios apps</strong></em>: swift/Objective-C</p>\r\n<p>for <em><strong>cross platform mobile apps</strong></em>: react native/Dart</p>\r\n<p>for <em><strong>data science/machine learning</strong></em>: Python/R</p>\r\n<p>for <em><strong>scripting</strong></em>: Python/Bash</p>\r\n<p>for <em><strong>desktop apps</strong></em>: C++/Java (can we put C# also?)</p>\r\n<p>for <em><strong>s</strong><strong>ystem programming</strong></em>: C/C++</p>\r\n<p>for <em><strong>game programming</strong></em>: C++/C#</p>",
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">There are many good websites available to learn java.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">following are few of my suggestions based on your learning style:</span></p>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Learn by Reading Web content</span></li>\r\n</ul>\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 0em 0px; padding: 0px 0px 0px 1.4em; list-style: lower-alpha; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">JavaTpoint:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"javatpoint.com\" href=\"http://javatpoint.com/\" target=\"_blank\" rel=\"noopener nofollow\">Javatpoint - A Solution of all Technology</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">StudyTonight:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"studytonight.com\" href=\"http://studytonight.com/\" target=\"_blank\" rel=\"noopener nofollow\">Best place to learn</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Tutorialspoints:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"tutorialspoints.com\" href=\"http://tutorialspoints.com/\" target=\"_blank\" rel=\"noopener nofollow\">tutorialspoints.com</a></span></li>\r\n</ol>\r\n</ol>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Learn by watching video</span></li>\r\n</ul>\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 0em 0px; padding: 0px 0px 0px 1.4em; list-style: lower-alpha; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">NPTEL:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"nptel.com\" href=\"http://nptel.com/\" target=\"_blank\" rel=\"noopener nofollow\">DSL</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Lynda:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"lynda.com\" href=\"http://lynda.com/\" target=\"_blank\" rel=\"noopener nofollow\">Lynda: Online Courses, Classes, Training, Tutorials</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">NewBoston:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"newboston.com\" href=\"http://newboston.com/\" target=\"_blank\" rel=\"noopener nofollow\">http://newboston.com</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">durgasoft Youtube channel:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"www.youtube.com\" href=\"https://www.youtube.com/user/durgasoftware\" target=\"_blank\" rel=\"noopener nofollow\">Durga Software Solutions</a></span></li>\r\n</ol>\r\n</ol>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Learn through practice and competing in programming</span></li>\r\n</ul>\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<ol class=\"q-box\" style=\"margin: 0px 2em 0em 0px; padding: 0px 0px 0px 1.4em; list-style: lower-alpha; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"hackerrank.com\" href=\"http://hackerrank.com/\" target=\"_blank\" rel=\"noopener nofollow\">HackerRank</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"hackerearth.com\" href=\"http://hackerearth.com/\" target=\"_blank\" rel=\"noopener nofollow\">HackerEarth - Programming challenges and Developer jobs</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"codefights.com\" href=\"http://codefights.com/\" target=\"_blank\" rel=\"noopener nofollow\">CodeFights</a></span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"codechef.com\" href=\"http://codechef.com/\" target=\"_blank\" rel=\"noopener nofollow\">Programming Competition,Programming Contest,Online Computer Programming</a></span></li>\r\n</ol>\r\n</ol>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">For more help get help from google or go through&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"hackr.io\" href=\"https://hackr.io/tutorials/learn-java\" target=\"_blank\" rel=\"noopener nofollow\">community curated resources</a></span><span style=\"background: none;\">.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">All The Best!</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Happy Learning!</span></p>",
   "user": {
-    "$oid": "5efda15c462a3025d11069f6"
+    "$oid": "626ed7a2424a7835540628ef"
   },
   "question": {
-    "$oid": "5efda39b462a3025d1106a02"
+    "$oid": "626edccc1c9eae01dc86a6c8"
   },
   "creationDate": {
-    "$date": "2020-07-02T09:13:54.778Z"
+    "$date": {
+      "$numberLong": "1651432931661"
+    }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "5efda603462a3025d1106a06"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    },
-    {
-      "$oid": "5efda1a2462a3025d11069f8"
-    },
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    }
-  ],
-  "content": "<p>Here is how:</p> <p> suppose you have two entities: <span style=\"color: #169179;\"><strong>Student</strong></span> and <strong><span style=\"color: #169179;\">Subject.</span></strong> a student can study <strong>many</strong> subjects. And a subject can hav <strong>many</strong> student subscribed to it&nbsp; . </p>    <p> This is a <span style=\"text-decoration: underline;\"><em><strong><span style=\"color: #e03e2d; text-decoration: underline;\">many to many</span></strong></em></span> relationship </p>  <p> we will have an array named students that have for example: student_id, student_name, student_age. and an array named subjects: subject_id, subject_title, subject_hours. </p>    <p>to model the ManyToMany relationship we will have an additional array named <strong>students_subjects </strong>which will have two fields: <strong><em>student_id</em></strong> and <strong><em>subject_id.</em></strong></p><p>a record 1, 2 in this array means that the student with id 1 is subscribed to the subject with id 2.</p>",
-  "user": {
-    "$oid": "5efda15c462a3025d11069f6"
-  },
-  "question": {
-    "$oid": "5efda360462a3025d1106a01"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:16:51.896Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda696462a3025d1106a07"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    }
-  ],
-  "content": "<h2><em><strong>O(n) </strong></em></h2>\r\n<p>(where n is the length of the data structure in which you want to search for an element) because at <em>worst</em> you will have to navigate throuh the whole DS to find (or not) your element.</p>",
-  "user": {
-    "$oid": "5efda187462a3025d11069f7"
-  },
-  "question": {
-    "$oid": "5efda3c5462a3025d1106a03"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:19:18.814Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda715462a3025d1106a08"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    },
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    },
-    {
-      "$oid": "5efda1a2462a3025d11069f8"
-    }
-  ],
-  "content": "<p>At a basic level, <strong>programming</strong> is the process of<em> <span style=\"color: #000000;\">thinking of a solution to a problem </span></em>or <em>finding the right architecture/design for a software</em>&nbsp; or <em>writing the steps of an algorithm in pseudo code</em>, whereas <strong>coding</strong> is <em>just about writing code</em>. meaning translating what you have in mind (the solution to your problem for example) to some lines of code in a programming language.</p>",
-  "user": {
-    "$oid": "5efda15c462a3025d11069f6"
-  },
-  "question": {
-    "$oid": "5efda32e462a3025d11069ff"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:21:25.314Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda83c462a3025d1106a09"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    },
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    }
-  ],
-  "content": "<p>prototype based object oriented!</p>",
-  "user": {
-    "$oid": "5efda1a2462a3025d11069f8"
-  },
-  "question": {
-    "$oid": "5efda3f5462a3025d1106a04"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:26:20.608Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda8b8462a3025d1106a0a"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    },
-    {
-      "$oid": "5efda15c462a3025d11069f6"
-    }
-  ],
-  "content": "<p><span style=\"font-family: 'andale mono', monospace;\">It is mainly used to<strong><span style=\"color: #3598db;\"> create dynamic/interactive web apps</span></strong> (front end engineering), but nowadays it is also used extensively for the <strong><span style=\"color: #e03e2d;\">back end with node.js</span></strong> and some framewoks such as express.</span></p>\r\n<p><span style=\"font-family: 'andale mono', monospace;\">it also used to create <span style=\"color: #e03e2d;\"><strong>cross platfrom mobile apps</strong></span> with react native, desktop apps with electron .. it has also many <span style=\"color: #3598db;\"><strong>machine learning</strong></span> libraries.</span></p>",
-  "user": {
-    "$oid": "5efda187462a3025d11069f7"
-  },
-  "question": {
-    "$oid": "5efda33d462a3025d1106a00"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:28:24.963Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efdba4cdf11cc35eb769996"
+    "$oid": "626ee1831c9eae01dc86a6cc"
   },
   "usersWhoLike": [],
-  "content": "<p>front end.</p>",
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n): buying items from a grocery list by proceeding down the list one item at a time, where &ldquo;n&rdquo; is the length of the list</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n): buying items from a grocery list by walking down every aisle (now &ldquo;n&rdquo; is the length of the store), if we assume list-checking time is trivial compared to walking time</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n): adding two numbers in decimal representation, where n is the number of digits in the number.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n^2): trying to find two puzzle pieces that fit together by trying all pairs of pieces exhaustively</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n^2): shaking hands with everybody in the room; but this is parallelized, so each person only does O(n) work.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O(n^2): multiplying two numbers using the grade-school multiplication algorithm, where n is the number of digits.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O( log n ): work done by each participant in a phone tree that reaches N people. Total work is obviously O( n ), though.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">O( log n ): finding where you left off in a book that your bookmark fell out of, by successively narrowing down the range</span></p>",
   "user": {
-    "$oid": "5efda15c462a3025d11069f6"
+    "$oid": "626ed7ca424a7835540628f0"
   },
   "question": {
-    "$oid": "5efda33d462a3025d1106a00"
+    "$oid": "626edd991c9eae01dc86a6c9"
   },
   "creationDate": {
-    "$date": "2020-07-02T10:43:24.694Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5f96dd21926f3f435fdba313"
-  },
-  "usersWhoLike": [],
-  "content": "<p>local variable type inference (the var keyword)</p>",
-  "user": {
-    "$oid": "5efda15c462a3025d11069f6"
-  },
-  "question": {
-    "$oid": "5f96dcf1926f3f435fdba312"
-  },
-  "creationDate": {
-    "$date": "2020-10-26T14:28:49.701Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5f96e46c926f3f435fdba314"
-  },
-  "usersWhoLike": [],
-  "content": "<p>test</p>",
-  "user": {
-    "$oid": "5efda15c462a3025d11069f6"
-  },
-  "question": {
-    "$oid": "5efda360462a3025d1106a01"
-  },
-  "creationDate": {
-    "$date": "2020-10-26T14:59:56.365Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5f98a3b4ba1ca64512914db6"
-  },
-  "usersWhoLike": [],
-  "content": "<p><span style=\"color: #169179;\"><em><strong>this is a test</strong></em></span></p>",
-  "user": {
-    "$oid": "5efda15c462a3025d11069f6"
-  },
-  "question": {
-    "$oid": "5efda32e462a3025d11069ff"
-  },
-  "creationDate": {
-    "$date": "2020-10-27T22:48:20.906Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5fa7533a6c91e48bae820f2c"
-  },
-  "usersWhoLike": [
-    {
-      "$oid": "5efda15c462a3025d11069f6"
+    "$date": {
+      "$numberLong": "1651433859610"
     }
-  ],
-  "content": "<p><span style=\"color: #169179;\"><em><strong>testing</strong></em></span></p>",
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee26e1c9eae01dc86a6ce"
+  },
+  "usersWhoLike": [],
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">I am going to share 5 to 6 programming laguage that will definitely going to help you, before that you should learn some basic coding for better development.</span></p>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">ASP.NET Development:</span><span style=\"background: none;\">&nbsp;</span><span style=\"font-style: italic; background: none;\">ASP</span><span style=\"background: none;\">.</span><span style=\"font-style: italic; background: none;\">NET</span><span style=\"background: none;\">&nbsp;is an open source web framework, created by Microsoft, for building modern web apps and services that run on macOS, Linux, Windows, and Docker.</span></li>\r\n</ul>\r\n<div class=\"q-box qu-mx--n_medium\" style=\"margin-left: -16px; margin-right: -16px; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box;\">\r\n<div class=\"q-box\" style=\"box-sizing: border-box; position: relative; margin-bottom: 1em; transition-property: undefined; transition-duration: 1s; transition-timing-function: ease-out; filter: blur(0px);\"><img class=\"q-image qu-cursor--default qu-display--block\" style=\"border-style: none; cursor: default; display: block; box-sizing: border-box; max-width: 100%; margin-left: auto; margin-right: auto;\" src=\"https://qphs.fs.quoracdn.net/main-qimg-929517c317ef2851570a7cadbfffbc50-pjlq\" /></div>\r\n</div>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">React JS Development:</span><span style=\"background: none;\">&nbsp;React components implement a render() method that takes input data and returns what to display.</span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">Vue JS Development:&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"www.zenesys.com\" href=\"https://www.zenesys.com/vuejs-development-company\" target=\"_blank\" rel=\"noopener nofollow\">Vue.js</a></span><span style=\"background: none;\">&nbsp;is an open-source model&ndash;view&ndash;viewmodel front end JavaScript framework for building user interfaces and single-page applications.</span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">Angular Development:&nbsp;</span><span style=\"background: none;\">Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations.</span></li>\r\n</ul>\r\n<div class=\"q-box qu-mx--n_medium\" style=\"margin-left: -16px; margin-right: -16px; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box;\">\r\n<div class=\"q-box\" style=\"box-sizing: border-box; position: relative; margin-bottom: 1em; transition-property: undefined; transition-duration: 1s; transition-timing-function: ease-out; filter: blur(0px);\"><img class=\"q-image qu-cursor--default qu-display--block\" style=\"border-style: none; cursor: default; display: block; box-sizing: border-box; max-width: 100%; margin-left: auto; margin-right: auto;\" src=\"https://qphs.fs.quoracdn.net/main-qimg-c6579061ef652118951b96c5b0b5dcc7-pjlq\" /></div>\r\n</div>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">Blazor Development:&nbsp;</span><span style=\"background: none;\">Blazor is a feature of ASP.NET for building interactive web UIs using C# instead of JavaScript.</span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"font-weight: bold; background: none;\">Python Development:&nbsp;</span><span style=\"background: none;\">Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.</span></li>\r\n</ul>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">You can contact with any software development company, that will also help you. One of the most trustworthy and experienced</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"www.zenesys.com\" href=\"https://www.zenesys.com/web-application-development-company\" target=\"_blank\" rel=\"noopener nofollow\">&nbsp;web development company in USA</a></span><span style=\"background: none;\">. Their team makes sure all the components of a project, from front-end to back-end is delivered exactly as per the business requirements</span></p>",
   "user": {
-    "$oid": "5efda15c462a3025d11069f6"
+    "$oid": "626ed7a2424a7835540628ef"
   },
   "question": {
-    "$oid": "5efda39b462a3025d1106a02"
+    "$oid": "626ee2301c9eae01dc86a6cd"
   },
   "creationDate": {
-    "$date": "2020-11-08T02:08:58.436Z"
+    "$date": {
+      "$numberLong": "1651434094395"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee3971c9eae01dc86a6d0"
+  },
+  "usersWhoLike": [],
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">First of all, keep in mind that NoSQL isn&rsquo;t a language or a product. There are&nbsp;</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"nosql-database.org\" href=\"http://nosql-database.org/\" target=\"_blank\" rel=\"noopener nofollow\">over 220 products that call themselves NoSQL</a></span><span style=\"background: none;\">, and they each have different uses.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Whereas SQL is a language, but not a specific implementation of that language. Talking about the &ldquo;performance of SQL&rdquo; doesn&rsquo;t make sense, because SQL is a language specification. Just a document that describes the language, not a software product. There are many implementations of SQL, and they each have strengths for different types of queries.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Then you have to ask: Faster for what? Data updates? Inserts? Single-row queries? Complex queries? The question as stated is practically meaningless. Depending on what you're doing, any technology might be optimal.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">In short: No, NoSQL is not faster than SQL, nor is SQL faster than NoSQL. They are each different technologies suited to different work.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Questions like yours are common, but naively assume there is one right answer. We might as well ask a carpenter if a hammer is better than a drill or a saw. They are all tools, useful for the purposes for which they were designed. It makes no sense to use one or the other exclusively.</span></p>",
+  "user": {
+    "$oid": "626ed7e8424a7835540628f1"
+  },
+  "question": {
+    "$oid": "626ee35b1c9eae01dc86a6cf"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1651434391841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee44a1c9eae01dc86a6d2"
+  },
+  "usersWhoLike": [],
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-weight: bold; background: none;\">Yes.</span></p>\r\n<div class=\"q-box qu-mx--n_medium\" style=\"margin-left: -16px; margin-right: -16px; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box;\">\r\n<div class=\"q-box\" style=\"box-sizing: border-box; position: relative; margin-bottom: 1em; transition-property: undefined; transition-duration: 1s; transition-timing-function: ease-out; filter: blur(0px);\"><img class=\"q-image qu-cursor--default qu-display--block\" style=\"border-style: none; cursor: default; display: block; box-sizing: border-box; max-width: 100%; margin-left: auto; margin-right: auto;\" src=\"https://qphs.fs.quoracdn.net/main-qimg-314a285d2bc3b19f82bb006565072c6e\" /></div>\r\n</div>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-style: italic; background: none;\">The current Java logo. &ldquo;Java&rdquo; refers to coffee, not the tropical island. The letters in the name don&rsquo;t stand for anything, unlike BASIC and ForTran do</span><span style=\"background: none;\">&nbsp;(</span><span class=\"q-inline\" style=\"box-sizing: border-box; display: inline;\"><a class=\"q-box qu-cursor--pointer qu-hover--textDecoration--underline Link___StyledBox-t2xg9c-0 KlcoI\" style=\"background: none; text-decoration-line: none; color: #195faa; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6); cursor: pointer; box-sizing: border-box; position: relative; border-radius: inherit;\" title=\"fiverr-res.cloudinary.com\" href=\"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123783891/original/68d37df18e906fa134fc75bf59420298e7098dd2/design-small-scale-java-applications-with-swing-or-java-fx.png\" target=\"_blank\" rel=\"noopener nofollow\">image credit)</a></span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-weight: bold; background: none;\">Java</span><span style=\"background: none;\">&nbsp;was carefully designed by professional and highly regarded software language architects. The primary goal was &ldquo;write once, run anywhere&rdquo;, but the designers had several other design goals as well. Such as:</span></p>\r\n<ul class=\"q-box\" style=\"margin: 0px 2em 1em 0px; padding: 0px; list-style-position: initial; list-style-image: initial; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; direction: ltr; overflow-wrap: break-word;\">\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px 0px 0.7em; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Easy to use</span></li>\r\n<li class=\"q-relative\" style=\"margin: 0px 0px 0px 2em; padding: 0px; box-sizing: border-box; position: relative;\"><span style=\"background: none;\">Object-oriented</span></li>\r\n</ul>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">And others. Based on C and C++ in terms of syntax, Java sported a familiar syntax, but was easier to use and more consistent than the other primary OO language of that time, C++. And thanks to the Java Virtual Machine, it was truly &ldquo;write once, run anywhere&rdquo;.</span></p>\r\n<div class=\"q-box qu-mx--n_medium\" style=\"margin-left: -16px; margin-right: -16px; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box;\">\r\n<div class=\"q-box\" style=\"box-sizing: border-box; position: relative; margin-bottom: 1em; transition-property: undefined; transition-duration: 1s; transition-timing-function: ease-out; filter: blur(0px);\"><img class=\"q-image qu-cursor--default qu-display--block\" style=\"border-style: none; cursor: default; display: block; box-sizing: border-box; max-width: 100%; margin-left: auto; margin-right: auto;\" src=\"https://qphs.fs.quoracdn.net/main-qimg-1beafa15dd6282debe9296e589f1e650\" /></div>\r\n</div>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-style: italic; background: none;\">One version of a JavaScript logo&nbsp;</span><span style=\"background: none;\">(</span>image credit)&nbsp;(https://www.seekpng.com/ipng/u2q8t4a9y3w7t4i1_javascript-logo-logo-de-java-script-png/)</p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-weight: bold; background: none;\">JavaScript</span><span style=\"background: none;\">,</span><span style=\"font-weight: bold; background: none;\">&nbsp;</span><span style=\"background: none;\">on the other hand, was designed in 10 days by a software engineer who was more less&nbsp;</span><span style=\"font-style: italic; background: none;\">blindsided</span><span style=\"background: none;\">&nbsp;by the order to develop a new language that ran in the browser. Based on Java syntax and other languages, JavaScript first appeared in Netscape Navigator as a &ldquo;scripting language&rdquo; for Java applets that could run in the browser.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">It is not OO and wasn&rsquo;t really meant to be a full language; it was just meant to drive Java applets and provide a little extra functionality. It&rsquo;s role has grown exponentially since 1995, when it was launched. It&rsquo;s still not OO (though it does use &ldquo;objects&rdquo;, it uses them in a perverse, awkward manner). Its strengths are &ldquo;functional programming&rdquo;, which means writing functions that don&rsquo;t have any side-effects.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"font-weight: bold; background: none;\">In short</span><span style=\"background: none;\">, Java was carefully designed and is a stable, reliable OO language.&nbsp;</span><span style=\"font-weight: bold; background: none;\">JavaScript&nbsp;</span><span style=\"background: none;\">was developed in a hurry and it shows. Both languages have been upgraded over the years. While Java has deprecated features that were deemed unreliable, JavaScript has embraced its defects and extended them. Both are better than they were when they were first launched, but there&rsquo;s little in common between them.</span></p>",
+  "user": {
+    "$oid": "626ed7ca424a7835540628f0"
+  },
+  "question": {
+    "$oid": "626ee3f11c9eae01dc86a6d1"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1651434570949"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee4ed1c9eae01dc86a6d4"
+  },
+  "usersWhoLike": [],
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">I suggest figuring out the program from the top down. That's usually the best way to think about recursion.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Let's start by working out what the two functions do. First, the function DoMerge takes an array of numbers that's split into two consecutive intervals. Each of the intervals is assumed to be already sorted, and the numbers are interleaved so that they end up as a single sorted sequence. Okay, but you said you did not have much trouble with that part.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Now let's find out what&nbsp;</span><code class=\"q-inline qu-bg--gray_ultralight qu-color--gray qu-overflowX--auto qu-textAlign--left qu-borderRadius--small qu-whiteSpace--pre-wrap\" style=\"font-family: Consolas, monaco, monospace; font-size: 1em; white-space: pre-wrap; background-color: #f7f7f8; color: #636466; overflow-x: auto; box-sizing: border-box; display: inline; margin: 1em 0px; padding: 1px 5px; box-shadow: rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset; direction: ltr; overflow-wrap: break-word;\">MergeSort_Recursive(int [] numbers, int left, int right)</code><span style=\"background: none;\">&nbsp;is supposed to do. It is given an array of numbers, and two numbers \"left\" and \"right\" that are presumably the beginning and end of an interval in the array that should be sorted.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Now there are two ways to think about recursion. The first is to follow the program's execution deeper and deeper into the recursion, but that can get confusing and is only really useful if you want to understand&nbsp;</span><span style=\"font-style: italic; background: none;\">how</span><span style=\"background: none;\">&nbsp;recursion works. It does not help you design a recursive procedure.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">So we'll start with the other way of thinking, which is to do a suspension of disbelief. Simply&nbsp;</span><span style=\"font-style: italic; background: none;\">believe</span><span style=\"background: none;\">&nbsp;that&nbsp;</span><code class=\"q-inline qu-bg--gray_ultralight qu-color--gray qu-overflowX--auto qu-textAlign--left qu-borderRadius--small qu-whiteSpace--pre-wrap\" style=\"font-family: Consolas, monaco, monospace; font-size: 1em; white-space: pre-wrap; background-color: #f7f7f8; color: #636466; overflow-x: auto; box-sizing: border-box; display: inline; margin: 1em 0px; padding: 1px 5px; box-shadow: rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset; direction: ltr; overflow-wrap: break-word;\">MergeSort_Recursive</code><span style=\"background: none;\">&nbsp;already works as it's supposed to. If that is the case, then we can simply read recursive function calls as \"sort that subarray please (using some code that I'm assuming somehow works)\".</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Now the function becomes very easy to read: it splits the array that has to be sorted in two, it sorts the left half (don't worry about it, just accept it), then it sorts the right half (again, don't worry about it), and then it merges the two sorted blocks together. If you read it that way, it looks pretty simple doesn't it?</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">But what kind of magic makes it all work? Well, the trick is that the calls to&nbsp;</span><code class=\"q-inline qu-bg--gray_ultralight qu-color--gray qu-overflowX--auto qu-textAlign--left qu-borderRadius--small qu-whiteSpace--pre-wrap\" style=\"font-family: Consolas, monaco, monospace; font-size: 1em; white-space: pre-wrap; background-color: #f7f7f8; color: #636466; overflow-x: auto; box-sizing: border-box; display: inline; margin: 1em 0px; padding: 1px 5px; box-shadow: rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset; direction: ltr; overflow-wrap: break-word;\">Mergesort_Recursive</code><span style=\"background: none;\">&nbsp;request sorting a&nbsp;</span><span style=\"font-style: italic; background: none;\">smaller</span><span style=\"background: none;\">&nbsp;array than we started out with each time. So when the computer starts executing the routine recursively, it splits that smaller array in two halves again, and makes two further recursive calls. And this way it goes on a couple of levels deep, until at some point, we arrive at an array of only a single item! In that case, we will have&nbsp;</span><code class=\"q-inline qu-bg--gray_ultralight qu-color--gray qu-overflowX--auto qu-textAlign--left qu-borderRadius--small qu-whiteSpace--pre-wrap\" style=\"font-family: Consolas, monaco, monospace; font-size: 1em; white-space: pre-wrap; background-color: #f7f7f8; color: #636466; overflow-x: auto; box-sizing: border-box; display: inline; margin: 1em 0px; padding: 1px 5px; box-shadow: rgba(0, 0, 0, 0.04) 0px 0px 0px 1px inset; direction: ltr; overflow-wrap: break-word;\">right&lt;=left</code><span style=\"background: none;\">, and the function will not do anything, so the recursion stops.</span></p>",
+  "user": {
+    "$oid": "626ed7e8424a7835540628f1"
+  },
+  "question": {
+    "$oid": "626ee4941c9eae01dc86a6d3"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1651434733011"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee5921c9eae01dc86a6d6"
+  },
+  "usersWhoLike": [],
+  "content": "<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Let there be N nodes.</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px 0px 1em; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">Then the height of a Binary Search Tree ranges from N-1 to log(N).</span></p>\r\n<p class=\"q-text qu-display--block qu-wordBreak--break-word qu-textAlign--start\" style=\"margin: 0px; padding: 0px; word-break: break-word; color: #282829; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif; font-size: 15px; background-color: #ffffff; box-sizing: border-box; overflow-wrap: anywhere; direction: ltr;\"><span style=\"background: none;\">therefore in the given question the height will range from 31 to log(32)= 5.</span></p>",
+  "user": {
+    "$oid": "626ed7e8424a7835540628f1"
+  },
+  "question": {
+    "$oid": "626ee5531c9eae01dc86a6d5"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1651434898704"
+    }
   },
   "__v": 0
 }]

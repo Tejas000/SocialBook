@@ -1,32 +1,5 @@
 [{
   "_id": {
-    "$oid": "5efda1ff462a3025d11069f9"
-  },
-  "questions": [
-    {
-      "$oid": "5f96dcf1926f3f435fdba312"
-    }
-  ],
-  "usersFollowers": [
-    {
-      "$oid": "5efda1a2462a3025d11069f8"
-    },
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    }
-  ],
-  "name": "java",
-  "description": "Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA).",
-  "imageName": "image-1593680383311.png",
-  "user": {
-    "$oid": "5efda1a2462a3025d11069f8"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T08:59:43.314Z"
-  },
-  "__v": 0
-},{
-  "_id": {
     "$oid": "5efda21f462a3025d11069fa"
   },
   "questions": [
@@ -38,6 +11,12 @@
     },
     {
       "$oid": "5fa748dc6c91e48bae820f2a"
+    },
+    {
+      "$oid": "626c3c1c77aab605f000a438"
+    },
+    {
+      "$oid": "626ee35b1c9eae01dc86a6cf"
     }
   ],
   "usersFollowers": [
@@ -49,67 +28,21 @@
     },
     {
       "$oid": "5efda15c462a3025d11069f6"
+    },
+    {
+      "$oid": "626ed7ca424a7835540628f0"
     }
   ],
-  "name": "Database design",
+  "name": "Database Design",
   "description": "Database design is the organization of data according to a logical structure of a database. So the goal is to determine in which manner data can be stored, organized and manipulated. Database design involves classifying data and identifying relationships.",
   "imageName": "image-1593680415229.png",
   "user": {
     "$oid": "5efda1a2462a3025d11069f8"
   },
   "creationDate": {
-    "$date": "2020-07-02T09:00:15.236Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda246462a3025d11069fb"
-  },
-  "questions": [
-    {
-      "$oid": "5efda3c5462a3025d1106a03"
-    },
-    {
-      "$oid": "5f98a3e2ba1ca64512914db7"
+    "$date": {
+      "$numberLong": "1593680415236"
     }
-  ],
-  "usersFollowers": [
-    {
-      "$oid": "5efda1a2462a3025d11069f8"
-    }
-  ],
-  "name": "algorithms",
-  "description": "In mathematics and computer science, an algorithm is a finite sequence of well-defined instructions, typically to solve a class of problems such as doing some calculations, data processing, automated reasoning, and other tasks.",
-  "imageName": "image-1593680454047.png",
-  "user": {
-    "$oid": "5efda187462a3025d11069f7"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:00:54.053Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "5efda274462a3025d11069fc"
-  },
-  "questions": [
-    {
-      "$oid": "5efdb99cdf11cc35eb769995"
-    }
-  ],
-  "usersFollowers": [
-    {
-      "$oid": "5efda187462a3025d11069f7"
-    }
-  ],
-  "name": "data structures",
-  "description": "A data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a DS is a collection of data values, the relationships among them, and the operations that can be applied to the data. ",
-  "imageName": "image-1593680500501.png",
-  "user": {
-    "$oid": "5efda187462a3025d11069f7"
-  },
-  "creationDate": {
-    "$date": "2020-07-02T09:01:40.504Z"
   },
   "__v": 0
 },{
@@ -122,6 +55,18 @@
     },
     {
       "$oid": "5efda39b462a3025d1106a02"
+    },
+    {
+      "$oid": "626edbd61c9eae01dc86a6c5"
+    },
+    {
+      "$oid": "626edbea1c9eae01dc86a6c6"
+    },
+    {
+      "$oid": "626edc0f1c9eae01dc86a6c7"
+    },
+    {
+      "$oid": "626ee2301c9eae01dc86a6cd"
     }
   ],
   "usersFollowers": [
@@ -133,6 +78,9 @@
     },
     {
       "$oid": "5efda15c462a3025d11069f6"
+    },
+    {
+      "$oid": "626ed7a2424a7835540628ef"
     }
   ],
   "name": "programming",
@@ -142,7 +90,9 @@
     "$oid": "5efda15c462a3025d11069f6"
   },
   "creationDate": {
-    "$date": "2020-07-02T09:02:41.263Z"
+    "$date": {
+      "$numberLong": "1593680561263"
+    }
   },
   "__v": 0
 },{
@@ -158,6 +108,12 @@
     },
     {
       "$oid": "5fa7530f6c91e48bae820f2b"
+    },
+    {
+      "$oid": "6267eeff8aea242cb09a2e69"
+    },
+    {
+      "$oid": "626ee3f11c9eae01dc86a6d1"
     }
   ],
   "usersFollowers": [
@@ -169,6 +125,9 @@
     },
     {
       "$oid": "5efda15c462a3025d11069f6"
+    },
+    {
+      "$oid": "626ed7e8424a7835540628f1"
     }
   ],
   "name": "javascript",
@@ -178,7 +137,135 @@
     "$oid": "5efda15c462a3025d11069f6"
   },
   "creationDate": {
-    "$date": "2020-07-02T09:03:15.681Z"
+    "$date": {
+      "$numberLong": "1593680595681"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efda246462a3025d11069fb"
+  },
+  "questions": [
+    {
+      "$oid": "5efda3c5462a3025d1106a03"
+    },
+    {
+      "$oid": "5f98a3e2ba1ca64512914db7"
+    },
+    {
+      "$oid": "626edd991c9eae01dc86a6c9"
+    }
+  ],
+  "usersFollowers": [
+    {
+      "$oid": "5efda1a2462a3025d11069f8"
+    },
+    {
+      "$oid": "626ed7a2424a7835540628ef"
+    },
+    {
+      "$oid": "626ed7ca424a7835540628f0"
+    }
+  ],
+  "name": "algorithms",
+  "description": "In mathematics and computer science, an algorithm is a finite sequence of well-defined instructions, typically to solve a class of problems such as doing some calculations, data processing, automated reasoning, and other tasks.",
+  "imageName": "image-1593680454047.png",
+  "user": {
+    "$oid": "5efda187462a3025d11069f7"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1593680454053"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efda1ff462a3025d11069f9"
+  },
+  "questions": [
+    {
+      "$oid": "5f96dcf1926f3f435fdba312"
+    },
+    {
+      "$oid": "626edccc1c9eae01dc86a6c8"
+    }
+  ],
+  "usersFollowers": [
+    {
+      "$oid": "5efda1a2462a3025d11069f8"
+    },
+    {
+      "$oid": "5efda187462a3025d11069f7"
+    },
+    {
+      "$oid": "626ed7a2424a7835540628ef"
+    }
+  ],
+  "name": "java",
+  "description": "Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA).",
+  "imageName": "image-1593680383311.png",
+  "user": {
+    "$oid": "5efda1a2462a3025d11069f8"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1593680383314"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5efda274462a3025d11069fc"
+  },
+  "questions": [
+    {
+      "$oid": "5efdb99cdf11cc35eb769995"
+    },
+    {
+      "$oid": "626ee4941c9eae01dc86a6d3"
+    },
+    {
+      "$oid": "626ee5531c9eae01dc86a6d5"
+    }
+  ],
+  "usersFollowers": [
+    {
+      "$oid": "5efda187462a3025d11069f7"
+    },
+    {
+      "$oid": "626ed7a2424a7835540628ef"
+    }
+  ],
+  "name": "data structures",
+  "description": "A data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a DS is a collection of data values, the relationships among them, and the operations that can be applied to the data. ",
+  "imageName": "image-1593680500501.png",
+  "user": {
+    "$oid": "5efda187462a3025d11069f7"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1593680500504"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ee7411c9eae01dc86a6d7"
+  },
+  "questions": [],
+  "usersFollowers": [],
+  "name": "Operating Systems",
+  "description": "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.",
+  "imageName": "image-1651435329050.jpg",
+  "user": {
+    "$oid": "626ed7ca424a7835540628f0"
+  },
+  "creationDate": {
+    "$date": {
+      "$numberLong": "1651435329412"
+    }
   },
   "__v": 0
 }]
