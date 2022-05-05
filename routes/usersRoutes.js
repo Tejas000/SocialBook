@@ -4,12 +4,14 @@ const User = require("./../models/user")
 const usersController = require("./../controllers/usersController")
 const passport = require("passport")
 
+// request data from a specified resource.
 router.get("/", usersController.getAllUsers)
 router.get("/login", usersController.checkNotAuthenticated, usersController.getLoginPage)
 router.get("/register", usersController.checkNotAuthenticated, usersController.getRegistrationPage)
 router.get("/:id", usersController.getUserById)
 router.get("/:id/:content", usersController.getUserById)
 
+// send data to a server to create/update a resource.
 router.post(
 	"/login",
 	usersController.checkNotAuthenticated,

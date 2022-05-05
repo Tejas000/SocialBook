@@ -123,6 +123,7 @@
     inputSearch.addEventListener("input", async () => {
         divTopicsContainer.innerHTML = ""
 
+        {{!-- Uses json files to search --}}
         const response = await fetch(`http://localhost:3000/topics/api/search/${inputSearch.value}`)
 
         if (response.ok) {
@@ -141,7 +142,7 @@
             } else {
                 topics.forEach(topic => {
                     divTopicsContainer.innerHTML += `
-                        {{!-- <div class="col-lg-3 col-md-5 col-sm-12 div-topic" >
+                        <div class="col-lg-3 col-md-5 col-sm-12 div-topic" >
                             <div class="card bg-light border-secondary" style="height: 370px;">
 
                                 <a href="/topics/${topic._id}">
@@ -161,19 +162,8 @@
                                     <p class="card-text"> ${topic.description} </p>
                                 </div>
                             </div>
-                        </div> --}}
-                        <div class="card">
-                            <img src="..." class="card-img-top" alt="..." />
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below
-                                    as a natural lead-in to additional content. This content is a
-                                    little bit longer.</p>
-                            </div>
-                            <div class="card-footer">
-                                <small class="text-muted">Last updated 3 mins ago</small>
-                            </div>
-                        </div>                        
+                        </div>
+                                             
                     `
                 })
             }

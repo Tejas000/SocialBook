@@ -15,6 +15,8 @@ const storage = multer.diskStorage({
 		cb(null, file.fieldname + "-" + Date.now() + path.extname(file.originalname))
 	}
 })
+
+// exporting the functions to all other modules
 exports.upload = multer({ storage: storage })
 
 //util functions for passport
@@ -62,6 +64,7 @@ exports.getAllUsers = async (req, res, next) => {
 	}
 }
 
+// Profile page
 exports.getUserById = async (req, res, next) => {
 	//the object that will be rendered
 	const input = {
@@ -145,7 +148,7 @@ exports.validateFormFields = () => {
 
 		validator.check("email").isEmail().withMessage("the email is not valid!"),
 
-		validator.check("password").isLength({ min: 4 }).withMessage("password lenght must be at least 4 chars!")
+		validator.check("password").isLength({ min: 4 }).withMessage("password length must be at least 4 chars!")
 	]
 }
 
@@ -170,7 +173,7 @@ exports.handleRegistration = async (req, res, next) => {
 				imageName: req.file ? req.file.filename : "default-user-image.jpg"
 			})
 
-			res.render("register", { successMessage: "account successfully created!" })
+			res.render("register", { successMessage: "Account Successfully Created!" })
 		}
 	} catch (error) {
 		next(error)

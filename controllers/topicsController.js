@@ -149,7 +149,7 @@ exports.handleCreateTopic = async (req, res, next) => {
 				}
 			)
 
-			input.successMessage = `topic ${name} successfully created`
+			input.successMessage = `Topic ${name} Successfully Created`
 		}
 		res.render("create-topic", input)
 	} catch (error) {

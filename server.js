@@ -1,6 +1,10 @@
+//Loading config.env file and setting the port along with database
 if (process.env.NODE_ENV !== "production") {
-	require("dotenv").config({ path: "./config.env" })
+	require("dotenv").config({
+		path: "./config.env"
+	})
 }
+
 
 const createError = require("http-errors")
 const express = require("express")
@@ -14,8 +18,15 @@ const passport = require("passport")
 const flash = require("express-flash")
 const session = require("express-session")
 const methodOverride = require("method-override")
-const { allowInsecurePrototypeAccess } = require("@handlebars/allow-prototype-access")
-const { findUserByEmail, findUserById } = require("./controllers/usersController")
+const {
+	allowInsecurePrototypeAccess
+} = require("@handlebars/allow-prototype-access")
+const {
+	//library functions
+	findUserByEmail,
+	findUserById
+} = require("./controllers/usersController")
+
 
 const usersRoutes = require("./routes/usersRoutes")
 const questionsRoutes = require("./routes/questionsRoutes")
@@ -25,26 +36,30 @@ const topicsRoutes = require("./routes/topicsRoutes")
 const app = express()
 
 //database setup
-mongoose.connect(process.env.DATABASE_LOCAL, { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(process.env.DATABASE_LOCAL, {
+	useNewUrlParser: true,
+	useUnifiedTopology: true
+})
 const db = mongoose.connection
 db.on("error", (error) => console.error(error))
 db.once("open", () => console.log("Connected to Database"))
 
 // view engine setup
+//integrating hbs files for the template
 app.engine(
 	".hbs",
 	exphbs({
 		helpers: {
-			//this custom helper will help me see data that i pass from  express to a .hbs view in the js script file
+			//this custom helper will help me see data that I pass from express to a .hbs view in the js script file
 			json: (context) => JSON.stringify(context),
 			formatDate: (date) => new Date(parseInt(date)).toDateString(),
 			capitalize: (str) =>
+				str ?
 				str
-					? str
-							.split(" ")
-							.map((s) => s[0].toUpperCase() + s.slice(1))
-							.join(" ")
-					: "",
+				.split(" ")
+				.map((s) => s[0].toUpperCase() + s.slice(1))
+				.join(" ") :
+				"",
 			upperFirstChar: (str) => (str ? str[0].toUpperCase() + str.slice(1) : "")
 		},
 		extname: ".hbs",
@@ -63,7 +78,9 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 app.use(express.json())
-app.use(express.urlencoded({ extended: false }))
+app.use(express.urlencoded({
+	extended: false
+}))
 app.use(cookieParser())
 app.use(flash())
 app.use(
